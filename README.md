@@ -1,4 +1,4 @@
-# Parse Server Push Adapter <!-- omit in toc -->
+# Parse Server Push Adapter src <!-- omit in toc -->
 
 [![Build Status](https://github.com/parse-community/parse-server-push-adapter/workflows/ci/badge.svg?branch=master)](https://github.com/parse-community/parse-server-push-adapter/actions?query=workflow%3Aci+branch%3Amaster)
 [![Snyk Badge](https://snyk.io/test/github/parse-community/parse-server-push-adapter/badge.svg)](https://snyk.io/test/github/parse-community/parse-server-push-adapter)
